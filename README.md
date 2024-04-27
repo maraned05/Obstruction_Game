@@ -1,5 +1,5 @@
 # Obstruction_Game
-A simple implementation of the Obstruction game. (http://www.papg.com/show?2XMX)
+A simple Python implementation of the Obstruction game. (http://www.papg.com/show?2XMX)
 
 There isn't a GUI implemented yet. The game is played through the terminal.
 
