@@ -1,5 +1,6 @@
 # Obstruction_Game
 A simple implementation of the Obstruction game. (http://www.papg.com/show?2XMX)
+
 There isn't a GUI implemented yet. The game is played through the terminal.
 
 Firstly, you have to introduce the size of the grid you want to play on. (two integers separated by space, representing the no. of rows, respectively the no. of columns)
